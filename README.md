@@ -10,7 +10,9 @@ A simple desktop weather application built with Java and Swing.
 - Responsive and clean UI
 - Easy to customize and extend
 
-## Screenshots
+## Screenshot
+
+![Weather App Screenshot](ss.png)
 
 
 ## How to Run
