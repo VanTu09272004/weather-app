@@ -24,6 +24,7 @@ A simple desktop weather application built with Java and Swing.
 
 2. Run `MainClass.java` in your Java IDE (VS Code, IntelliJ, NetBeans, etc).
 
+NOTE: You must provide your own OpenWeatherMap API key in WeatherAppCodeJava.java.
 
 ## Author
 
