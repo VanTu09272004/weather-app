@@ -9,7 +9,7 @@ import javax.swing.ImageIcon;
 
 public class WeatherAppCodeJava {
 
-    String apiKey = "76918f5b5e69724131d7127c7669f4b4";
+    String apiKey = "Your_API_Key"; //Use your own openweathermap api key
     String rawLocation;
     MyFrame frame;
 
